@@ -1,0 +1,13 @@
+model,with_debate,gold_label,accuracy
+baseline,False,NOT ENOUGH INFO,0.225
+baseline,False,REFUTES,0.65
+baseline,False,SUPPORTS,0.95
+baseline,True,NOT ENOUGH INFO,0.3125
+baseline,True,REFUTES,0.596875
+baseline,True,SUPPORTS,0.9875
+fine_tuned,False,NOT ENOUGH INFO,0.275
+fine_tuned,False,REFUTES,0.525
+fine_tuned,False,SUPPORTS,0.925
+fine_tuned,True,NOT ENOUGH INFO,0.309375
+fine_tuned,True,REFUTES,0.584375
+fine_tuned,True,SUPPORTS,0.978125

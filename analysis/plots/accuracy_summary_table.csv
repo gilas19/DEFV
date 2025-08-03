@@ -1,0 +1,7 @@
+row_label,no_debate,1,2,4,6
+no_debate_baseline,0.6083333333333333,,,,
+no_debate_fine_tuned,0.575,,,,
+Agent1_baseline,,,,,
+Agent1_fine_tuned,,,,,
+Agent2_baseline,,0.6166666666666667,0.6416666666666666,0.6458333333333333,0.625
+Agent2_fine_tuned,,0.6333333333333333,0.6041666666666667,0.6333333333333333,0.625

@@ -1,0 +1,2161 @@
+config_id,model,with_debate,num_turns,gold_label,prediction
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,REFUTES
+no_debate,baseline,False,0,REFUTES,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,baseline,False,0,REFUTES,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,REFUTES,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,SUPPORTS,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,REFUTES,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,baseline,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,baseline,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,baseline,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,baseline,True,2,REFUTES,REFUTES
+agent1_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,baseline,True,4,REFUTES,REFUTES
+agent1_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,baseline,True,4,REFUTES,REFUTES
+agent2_4turns,baseline,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,baseline,True,2,REFUTES,REFUTES
+agent2_2turns,baseline,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,REFUTES
+agent1_6turns,baseline,True,6,SUPPORTS,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,baseline,True,6,REFUTES,REFUTES
+agent1_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,baseline,True,1,REFUTES,REFUTES
+agent2_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,REFUTES
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,baseline,True,1,REFUTES,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,baseline,True,1,REFUTES,REFUTES
+agent1_1turns,baseline,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,baseline,True,6,REFUTES,REFUTES
+agent2_6turns,baseline,True,6,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,REFUTES,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,REFUTES
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,SUPPORTS,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,REFUTES
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,SUPPORTS
+no_debate,fine_tuned,False,0,REFUTES,NOT ENOUGH INFO
+no_debate,fine_tuned,False,0,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent1_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent1_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent1_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,REFUTES
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,SUPPORTS,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_4turns,fine_tuned,True,4,REFUTES,REFUTES
+agent2_4turns,fine_tuned,True,4,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,SUPPORTS,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent2_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,REFUTES,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_2turns,fine_tuned,True,2,REFUTES,REFUTES
+agent2_2turns,fine_tuned,True,2,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent1_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent1_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,REFUTES
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent2_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent2_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,SUPPORTS,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,REFUTES,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,SUPPORTS
+agent1_1turns,fine_tuned,True,1,REFUTES,REFUTES
+agent1_1turns,fine_tuned,True,1,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,SUPPORTS,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,REFUTES,NOT ENOUGH INFO
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
+agent2_6turns,fine_tuned,True,6,REFUTES,REFUTES
+agent2_6turns,fine_tuned,True,6,NOT ENOUGH INFO,SUPPORTS
